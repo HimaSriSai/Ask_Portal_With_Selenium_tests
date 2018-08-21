@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="33587" started-at="2018-08-21T10:51:39Z" finished-at="2018-08-21T10:52:12Z">
+  <suite name="Command line suite" duration-ms="27502" started-at="2018-08-21T11:36:19Z" finished-at="2018-08-21T11:36:47Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="33587" started-at="2018-08-21T10:51:39Z" finished-at="2018-08-21T10:52:12Z">
+    <test name="Command line test" duration-ms="27502" started-at="2018-08-21T11:36:19Z" finished-at="2018-08-21T11:36:47Z">
       <class name="com.prokarma.selenium.test.QueryTest">
-        <test-method status="PASS" signature="queryTest()[pri:0, instance:com.prokarma.selenium.test.QueryTest@30331109]" name="queryTest" duration-ms="15419" started-at="2018-08-21T10:51:57Z" finished-at="2018-08-21T10:52:12Z">
+        <test-method status="PASS" signature="queryTest()[pri:0, instance:com.prokarma.selenium.test.QueryTest@6c37bd27]" name="queryTest" duration-ms="8158" started-at="2018-08-21T11:36:39Z" finished-at="2018-08-21T11:36:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- queryTest -->
       </class> <!-- com.prokarma.selenium.test.QueryTest -->
       <class name="com.prokarma.selenium.test.PostYourQueryTest">
-        <test-method status="PASS" signature="postYourQueryTest()[pri:0, instance:com.prokarma.selenium.test.PostYourQueryTest@25d3cfc8]" name="postYourQueryTest" duration-ms="18121" started-at="2018-08-21T10:51:39Z" finished-at="2018-08-21T10:51:57Z">
+        <test-method status="PASS" signature="postYourQueryTest()[pri:0, instance:com.prokarma.selenium.test.PostYourQueryTest@7a24eb3]" name="postYourQueryTest" duration-ms="19294" started-at="2018-08-21T11:36:19Z" finished-at="2018-08-21T11:36:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postYourQueryTest -->

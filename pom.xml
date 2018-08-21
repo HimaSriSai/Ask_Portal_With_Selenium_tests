@@ -39,11 +39,11 @@
 
 		</dependency> -->
 		<!-- https://mvnrepository.com/artifact/ojdbc14/ojdbc14 -->
- <dependency>
+<!--  <dependency>
     <groupId>ojdbc14</groupId>
     <artifactId>ojdbc14</artifactId>
     <version>10.2.0.3.0</version>
-</dependency>
+</dependency> -->
 		
 		<dependency>
 			<groupId>org.junit.vintage</groupId>
