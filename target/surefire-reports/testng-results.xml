@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="33587" started-at="2018-08-21T10:51:39Z" finished-at="2018-08-21T10:52:12Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="33587" started-at="2018-08-21T10:51:39Z" finished-at="2018-08-21T10:52:12Z">
+      <class name="com.prokarma.selenium.test.QueryTest">
+        <test-method status="PASS" signature="queryTest()[pri:0, instance:com.prokarma.selenium.test.QueryTest@30331109]" name="queryTest" duration-ms="15419" started-at="2018-08-21T10:51:57Z" finished-at="2018-08-21T10:52:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- queryTest -->
+      </class> <!-- com.prokarma.selenium.test.QueryTest -->
+      <class name="com.prokarma.selenium.test.PostYourQueryTest">
+        <test-method status="PASS" signature="postYourQueryTest()[pri:0, instance:com.prokarma.selenium.test.PostYourQueryTest@25d3cfc8]" name="postYourQueryTest" duration-ms="18121" started-at="2018-08-21T10:51:39Z" finished-at="2018-08-21T10:51:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postYourQueryTest -->
+      </class> <!-- com.prokarma.selenium.test.PostYourQueryTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
